@@ -11,15 +11,15 @@ title: My Game Portfolio
 Worked as a Gameplay Developer specializing on monsters' AI behaviour graph and other various content elements.
 
 ### Tabletop
-<img width="616" height="353" alt="image" src="https://github.com/user-attachments/assets/5e061164-e678-4999-a118-48123afda710" />
+<img width="616" height="300" alt="image" src="https://github.com/user-attachments/assets/5e061164-e678-4999-a118-48123afda710" />
 Worked as the main Developer on the project, from prototyping to release.
 
 ### Monsters Are Coming!
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b4645b5-59c1-4d3d-a133-8849e39d1d2b" />
+<img width="1920" height="300" alt="image" src="https://github.com/user-attachments/assets/1b4645b5-59c1-4d3d-a133-8849e39d1d2b" />
 Worked shortly as a Gameplay Developer during the prototyping phase.
 
 ### A Better World
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2756184e-03c7-48b2-b34f-06078af1639f" />
+<img width="1920" height="300" alt="image" src="https://github.com/user-attachments/assets/2756184e-03c7-48b2-b34f-06078af1639f" />
 Worked as the sole Developer for the prototype and as a Core System Developer in production.
 
 
