@@ -24,8 +24,14 @@ Worked as the sole Developer for the prototype and as a Core System Developer in
 
 
 ## Personal Projects
-### Unity Utility (in progress)
+### Unity Utility (always in progress)
+Various independant Utility systems used on every other projects to improve quality of life in Unity.
+Systems range from settings and databases to efficient updater and save system.
 
 ### Project Ninja (in progress)
+Competitive 2D racer inspired by Ninja Warrior.
 
 ### DFL 2
+First game project I worked on (2021).
+No school or job experience with video games before.
+Released on Steam and Play Store (mobile).
