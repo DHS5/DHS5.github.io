@@ -29,7 +29,7 @@ Various independant Utility systems used on every other projects to improve qual
 Systems range from settings and databases to efficient updater and save system.
 
 ### Project Ninja (in progress)
-Competitive 2D racer inspired by Ninja Warrior.
+Competitive multiplayer 2D racer inspired by Ninja Warrior.
 
 ### [DFL 2](https://store.steampowered.com/app/2227340/DFL2/)
 First game project I worked on (2021).\
