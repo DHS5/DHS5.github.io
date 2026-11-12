@@ -6,7 +6,7 @@ title: My Game Portfolio
 # Game Developer at Ludogram
 
 ## Ludogram's projects I worked on
-### Invokyr
+### [Invokyr](https://store.steampowered.com/app/3883570/Invokyr)
 <img width="533" height="300" alt="image" src="https://github.com/user-attachments/assets/d8db1d41-d335-4e6c-93d9-c74f2ec2c169" />
 Worked as a Gameplay Developer specializing on monsters' AI behaviour graph and other various content elements.
 
